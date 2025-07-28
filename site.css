@@ -1,6 +1,5 @@
 *{
     margin: 0;
-   
 }
 
 html, body {
@@ -14,7 +13,6 @@ body {
 
 p {
     margin: 0.5em 0 0.5em 0;
-
 }
 
 header {
@@ -92,7 +90,7 @@ article {
 /* Food html */
 
 .food {
-    width: 300px;
+    width: 600px;
     padding: 10px;
     margin: 10px;
     background-color: white;
